@@ -1,0 +1,17 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "menu.js",
+  "type": "module",
+  "scripts": {
+    "start": "node menu.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.1.8",
+    "lucide-react": "^0.379.0"
+  }
+}

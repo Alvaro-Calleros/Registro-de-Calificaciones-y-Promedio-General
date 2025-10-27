@@ -1,0 +1,62 @@
+[
+  {
+    "numero": 1,
+    "alumnos": [
+      {
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "calificaciones": [
+          85,
+          90,
+          78
+        ],
+        "grupo": 1
+      },
+      {
+        "nombre": "Jose",
+        "apellido": "Villas",
+        "calificaciones": [
+          99,
+          99,
+          70
+        ],
+        "grupo": 1
+      }
+    ]
+  },
+  {
+    "numero": 2,
+    "alumnos": [
+      {
+        "nombre": "Juan",
+        "apellido": "Cabuto",
+        "calificaciones": [
+          100,
+          69,
+          81
+        ],
+        "grupo": 2
+      },
+      {
+        "nombre": "Eduardo",
+        "apellido": "Gonzalez",
+        "calificaciones": [
+          50,
+          100,
+          100
+        ],
+        "grupo": 2
+      },
+      {
+        "nombre": "Bob",
+        "apellido": "Fish",
+        "calificaciones": [
+          100,
+          100,
+          100
+        ],
+        "grupo": 2
+      }
+    ]
+  }
+]
